@@ -26,13 +26,14 @@ h1 {
   text-align: center;
 }
 
-.btn {
+.btn1 {
   color: white;
   background-color: #003873;
 }
 
-.btn:hover {
+.btn1:hover {
   color: white;
   background-color: #002347;
-  transition: all 0.5;
+  transition: all 0.5s;
 }
+

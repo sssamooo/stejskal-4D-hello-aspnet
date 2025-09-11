@@ -8,5 +8,10 @@ namespace stejskal_4D_hello_aspnet.Controllers
         {
             return View();
         }
+
+        public IActionResult Uloha2()
+        {
+            return View();
+        }
     }
 }

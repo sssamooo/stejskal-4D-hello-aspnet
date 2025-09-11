@@ -1,0 +1,40 @@
+/* -------------------- uloha 2 --------------------  */
+
+.container2 {
+    background: #fff;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+    border-radius: 10px;
+    padding: 32px 24px;
+    max-width: 400px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn2 {
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  border: solid black 2px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+
+.btn2:hover {
+  color: white;
+  background-color: #000000;
+  transition: all 0.5s;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.profile-pic {
+    width: 120px; 
+    height: 120px; 
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 6px solid #000000;
+    margin-bottom: 20px;
+}

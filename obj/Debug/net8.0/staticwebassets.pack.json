@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\css\\uloha2.css",
+      "PackagePath": "staticwebassets\\css\\uloha2.css"
+    },
+    {
       "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\img\\belligoal.png",
+      "PackagePath": "staticwebassets\\img\\belligoal.png"
     },
     {
       "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\js\\site.js",
