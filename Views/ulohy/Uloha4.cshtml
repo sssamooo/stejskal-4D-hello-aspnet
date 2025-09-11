@@ -1,0 +1,38 @@
+@using stejskal_4D_hello_aspnet.Models
+@model List<UserInfo>
+<head>
+    <link rel="stylesheet" href="~/css/uloha4.css" asp-append-version="true" />
+</head>
+
+
+<div class="table-container">
+    <table class="table">
+        <thead>
+            <tr>Email</tr>
+            <tr>Name</tr>
+            <tr>Tel</tr>
+            <tr>Username</tr>
+        </thead>
+        <tbody>
+            @foreach(var user in Model){
+                <tr>
+                    <td>
+                        @user.Email 
+                    </td>
+                    <td>
+                        @user.Name 
+                    </td>
+                    <td>
+                        @user.Tel 
+                    </td>
+                    <td>
+                        @user.UserName
+                    </td>
+                </tr>
+                }
+        </tbody>
+        
+    </table>
+</div>
+
+

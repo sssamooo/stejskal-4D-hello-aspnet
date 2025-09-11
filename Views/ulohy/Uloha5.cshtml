@@ -1,0 +1,9 @@
+@model IEnumerable<stejskal_4D_hello_aspnet.Models.UserInfo>
+
+
+@foreach (var user in Model)
+{
+    <partial name="_UserCard" model="user" />
+}
+
+

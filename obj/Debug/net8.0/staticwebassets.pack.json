@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\css\\uloha2.css"
     },
     {
+      "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\css\\uloha3.css",
+      "PackagePath": "staticwebassets\\css\\uloha3.css"
+    },
+    {
+      "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\css\\uloha4.css",
+      "PackagePath": "staticwebassets\\css\\uloha4.css"
+    },
+    {
+      "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\css\\uloha5.css",
+      "PackagePath": "staticwebassets\\css\\uloha5.css"
+    },
+    {
       "Id": "C:\\Users\\samue\\Documents\\GitHub\\stejskal-4D-hello-aspnet\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
